@@ -1,0 +1,21 @@
+.heading
+{
+    width:80%;
+    font-size:22px;
+
+}
+.name_of_person,#result_object_name,#result_object_accuracy
+{
+    color: rgb(63, 1, 63);
+    
+}
+#camera,#result
+{
+    border: 15px dashed rgb(156, 0, 60);
+    width: 350px;
+    height: 300px;
+}
+body{
+    background-color: rgb(231, 108, 128);
+    color:rgb(219, 68, 156);
+}
